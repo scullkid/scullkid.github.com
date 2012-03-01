@@ -3,8 +3,8 @@ layout: page
 title: Yay!
 ---
 {% include JB/setup %}
-    
-## Posts
+
+Hello, these are my current blog posts.
 
 <ul class="posts">
   {% for post in site.posts %}
