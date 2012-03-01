@@ -10,11 +10,11 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : scullkid
-tagline: Site Tagline
+tagline: Testing
 author :
   name : Name Lastname
-  email : blah@email.test
-  github : username
+  email : scullkid@gmail.com
+  github : scullkid
   twitter : username
   feedburner : feedname
 
