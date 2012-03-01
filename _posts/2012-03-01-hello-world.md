@@ -13,4 +13,4 @@ Hello.
 
 **Bold?**
 
-[Hyperlink](www.google.com)
+[Hyperlink](http://www.google.com/webhp?hl=en&tab=ww)
