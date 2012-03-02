@@ -4,7 +4,8 @@ title: Yay!
 ---
 {% include JB/setup %}
 
-zzz
+zzz/n
+
 Hello, these are my current blog posts.
 
 <ul class="posts">
