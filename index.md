@@ -4,9 +4,7 @@ title: Yay!
 ---
 {% include JB/setup %}
 
-zzz/n
-
-Hello, these are my current blog posts.
+Hello. This website is mostly for testing. These are my current blog posts.
 
 <ul class="posts">
   {% for post in site.posts %}
